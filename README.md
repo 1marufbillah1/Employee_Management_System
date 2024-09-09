@@ -1,6 +1,6 @@
 Project Title: Employee Management System
 
-Objective: The Employee Management System (EMS) is designed to streamline and automate employee-related processes, ensuring efficient management of employee data, tracking, and reporting within an organization. The system helps manage employee details, monitor attendance, and performance, and handle administrative tasks like payroll, leaves, and performance reviews.
+Objective: The Employee Management System (EMS) is designed to streamline and automate employee-related processes, ensuring efficient management of employee data, tracking, and reporting within an organization. The system helps manage employee details.  
 
 Key Features:
 
